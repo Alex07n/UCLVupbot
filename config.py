@@ -8,7 +8,7 @@ USUARIO = 'joborges'
 PASSWORD = 'liany.29'
 USUARIO_ID = 1487
 ZIP_MB = 399
-MOODLE_URL = 'moodle.uclv.cu'
+MOODLE_URL = 'moodle.uclv.edu.cu'
 OWNER = [1751127496]
 
 # CUENTA DE MEGA
